@@ -1,0 +1,118 @@
+{
+  "version": "0.6.8",
+  "repository_preview": "hikim-0606/battle-legion-expedition-web",
+  "archive_bytes": 44153607,
+  "archive_sha256": "82322d8ca1d4d138b579265523a7caf8666516e7b6cd8ef3d31927b978d11a07",
+  "allowed_files": [
+    "index.144x144.png",
+    "index.180x180.png",
+    "index.512x512.png",
+    "index.apple-touch-icon.png",
+    "index.audio.position.worklet.js",
+    "index.audio.worklet.js",
+    "index.html",
+    "index.icon.png",
+    "index.js",
+    "index.manifest.json",
+    "index.offline.html",
+    "index.pck",
+    "index.png",
+    "index.service.worker.js",
+    "index.wasm"
+  ],
+  "files": {
+    "index.144x144.png": {
+      "bytes": 17274,
+      "sha256": "5a28b3b1721eebe4f6a738e31e10137dac0e20dd460d43beac2a420f6dc2bc19"
+    },
+    "index.180x180.png": {
+      "bytes": 24528,
+      "sha256": "cb83ff7409a15b7088bd3af74827ebbb0da7197beb7da8fa3b72dd78cf19acdb"
+    },
+    "index.512x512.png": {
+      "bytes": 120494,
+      "sha256": "262690dc3593a716ea7e8f1dd8b10706e5cd7e99045a1b31d077c653f7e90f9f"
+    },
+    "index.apple-touch-icon.png": {
+      "bytes": 24528,
+      "sha256": "cb83ff7409a15b7088bd3af74827ebbb0da7197beb7da8fa3b72dd78cf19acdb"
+    },
+    "index.audio.position.worklet.js": {
+      "bytes": 2973,
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+    },
+    "index.audio.worklet.js": {
+      "bytes": 7298,
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+    },
+    "index.html": {
+      "bytes": 19588,
+      "sha256": "90337343f02b1a55361d8149aa474215d2a7b3cfa37512edc0eda24436128223"
+    },
+    "index.icon.png": {
+      "bytes": 68538,
+      "sha256": "82202b650ebd73eea38108d531393db3d098b4c2e0ef2cd86bf7af83fceeeffc"
+    },
+    "index.js": {
+      "bytes": 305185,
+      "sha256": "8a7c7d57f7da69bb71da9de302480b87e4c7ecb467ce643665b4a288683cd18f"
+    },
+    "index.manifest.json": {
+      "bytes": 347,
+      "sha256": "ea8279d58adf53ee7e23c2ec884b9434dbfd93a0bd3706b4fa4971a736248c21"
+    },
+    "index.offline.html": {
+      "bytes": 2023,
+      "sha256": "c004ea2f0848ed8063896e702b6c1dc7128896b0a99557e0df4d562edf2e0373"
+    },
+    "index.pck": {
+      "bytes": 35130844,
+      "sha256": "e0c3d4457e745fb2c03d6f9696f0fe1a0ee44e97fdd8cbecc0ba2162860997b9"
+    },
+    "index.png": {
+      "bytes": 21443,
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    },
+    "index.service.worker.js": {
+      "bytes": 6036,
+      "sha256": "2cadea8494ed56c67cb19782a542288cbd0110c8b5f85e592518562fa31956a9"
+    },
+    "index.wasm": {
+      "bytes": 38047590,
+      "sha256": "6ead2ac528d007fe9627aae650444f9187f89420d7603c22460d8f3279545240"
+    }
+  },
+  "parts": [
+    {
+      "name": "battle-legion-web-v0.6.8.zip.001.part",
+      "bytes": 8388608,
+      "sha256": "15f1ad42d590f3ef74ef78544c856b2eb31ef27c4cc4d95f4331a56485d63eaa"
+    },
+    {
+      "name": "battle-legion-web-v0.6.8.zip.002.part",
+      "bytes": 8388608,
+      "sha256": "3c6d9c15f60808e5d8a46d5b2f24972464af328698631951dc28cf91a5cb5035"
+    },
+    {
+      "name": "battle-legion-web-v0.6.8.zip.003.part",
+      "bytes": 8388608,
+      "sha256": "03d6aa82784590e9fc9275bc1dc405380509cc28467f1bf057cd01c2479d9143"
+    },
+    {
+      "name": "battle-legion-web-v0.6.8.zip.004.part",
+      "bytes": 8388608,
+      "sha256": "7964ba191a2f15ace861f031e96a48351f05a071b21bbd5c91cf7e65efd35687"
+    },
+    {
+      "name": "battle-legion-web-v0.6.8.zip.005.part",
+      "bytes": 8388608,
+      "sha256": "8592594494d15cbbcef3ff101f170fdf9c9671b0e3e449ebd8ef9f640d638b48"
+    },
+    {
+      "name": "battle-legion-web-v0.6.8.zip.006.part",
+      "bytes": 2210567,
+      "sha256": "dd2eaf472aeb55a60d160c422d336708a6dda3d7941280e41d68f18364e43028"
+    }
+  ],
+  "chunk_mib": 8
+}
